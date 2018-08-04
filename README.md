@@ -1,0 +1,2 @@
+# predictive_analysis_parkinsons
+The dataset of 42 patients suffering from early stage Parkinson’s disease was downloaded from UCI. The objective was to predict, how severe the symptoms of the disease are.  Research has shown that early diagnosis combined with speech therapy can improve speech quality of patients suffering from this disease. Predictive analysis was done to predict two separate metrics: motor UPDRS and total UPDRS. The primary objective was to achieve the highest possible accuracy while discovering which features are most influential in the derived model.
